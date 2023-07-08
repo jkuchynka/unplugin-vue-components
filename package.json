@@ -1,6 +1,6 @@
 {
   "name": "unplugin-vue-components",
-  "version": "0.25.1",
+  "version": "0.25.2",
   "packageManager": "pnpm@8.6.0",
   "description": "Components auto importing for Vue",
   "author": "antfu <anthonyfu117@hotmail.com>",
@@ -9,7 +9,7 @@
   "homepage": "https://github.com/antfu/unplugin-vue-components",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/unplugin-vue-components"
+    "url": "https://github.com/jkuchynkau/unplugin-vue-components"
   },
   "bugs": "https://github.com/antfu/unplugin-vue-components/issues",
   "exports": {
